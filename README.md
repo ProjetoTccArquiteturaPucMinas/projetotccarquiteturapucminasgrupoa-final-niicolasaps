@@ -1,6 +1,6 @@
 # Sistema de Cálculo de Descontos para Marketplace
 
-## Seu Nome: 
+## Seu Nome: Nicolas Almeida Prado da Silva
 
 ## Visão Geral do Projeto
 
